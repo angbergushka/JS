@@ -1,0 +1,11 @@
+label {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p {
+    color: rgb(0, 0, 136);
+    font-weight: bold;
+    font-size: 20px;
+}
